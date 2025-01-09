@@ -37,6 +37,3 @@ The NEAT algorithm's behavior is controlled using the `config/config-feedforward
 - **[DefaultReproduction]**: Manages how genomes are selected and bred for the next generation.
 
 For a detailed explanation of the configuration file, refer to the [NEAT-Python documentation](https://neat-python.readthedocs.io/en/latest/config_file.html).
-
-## License
-This project is licensed under the MIT License.
